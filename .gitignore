@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Node
+node_modules/
+
+# Next
+.next/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+
+# Docker
+postgres_data/
+redis_data/
+qdrant_data/
